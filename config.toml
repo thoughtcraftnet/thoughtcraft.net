@@ -1,4 +1,5 @@
-baseURL = "https://thoughtcraft.net"
+#baseURL = "https://thoughtcraft.net"
+baseURL = "/"
 title = "Thoughtcraft"
 author = "Matt Phillips"
 paginate = 3
