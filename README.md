@@ -1,6 +1,6 @@
 # Thoughtcraft Website
 
-The content is written in [Markdown][markdown] and rendered to static HTML using [Hugo][hugo_site].
+This is the repo for [thoughtcraft.net][thoughtcraft].  The content is written in [Markdown][markdown] and rendered to static HTML using [Hugo][hugo_site].
 
 ## Set Up
 
@@ -73,19 +73,10 @@ Now you can create your branch and make your killer contribution:
 
 
 
-[pythonpirates]: https://www.pythonpirates.org
+[thoughtcraft]: https://thoughtcraft.net
 [markdown]: https://guides.github.com/features/mastering-markdown/
 [git_submodules]: https://blog.github.com/2016-02-01-working-with-submodules/#joining-a-project-using-submodules
 [hugo_site]: https://gohugo.io/
 [hugo_install]: https://gohugo.io/getting-started/installing/
-[hugo_install_verify]: https://gohugo.io/getting-started/installing/#verify-the-executable
 [front_matter]: https://gohugo.io/content-management/front-matter/
-[contribute_overview]: https://www.pythonpirates.org/post/contribute-to-website/
-[website_repo]: https://github.com/PDXPythonPirates/pythonpirates.org
-[markdown]: https://guides.github.com/features/mastering-markdown/
-[github_help]: https://help.github.com/
-[github_fork]: https://help.github.com/articles/working-with-forks/
-[github_clone]: https://help.github.com/articles/cloning-a-repository/
-[github_pr]: https://help.github.com/articles/about-pull-requests/
-
 
