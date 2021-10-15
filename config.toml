@@ -11,7 +11,7 @@
 #   hugo server --appendPort=false -b https://NGROK_URL
 #
 
-baseURL = "https://thoughtcraft.net"
+baseURL = "https://thoughtcraft.net/"
 title = "Thoughtcraft"
 author = "Matt Phillips"
 paginate = 3
